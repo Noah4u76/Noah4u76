@@ -15,4 +15,10 @@
 
 ### Full Stack Projects
 
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/Noah4u76/Portfolio-Website)
+[![](https://img.shields.io/badge/-🧠%20Discrete%20StudyGuide-000)](https://github.com/Noah4u76/study-guide)
+[![](https://img.shields.io/badge/-👾%20Neo%20Punks-000)](https://github.com/Noah4u76/NeoPunks)
+
+
+
 ### Cybersecurity Projects
