@@ -21,3 +21,4 @@
 
 
 ### Cybersecurity Projects
+[![](https://img.shields.io/badge/-🔒%20XOR%20Encryption-000)](https://github.com/Noah4u76/XOR-Encryption-Project)
