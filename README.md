@@ -22,5 +22,4 @@
 
 ### Cybersecurity Projects
 [![](https://img.shields.io/badge/-🔒%20XOR%20Encryption-000)](https://github.com/Noah4u76/XOR-Encryption-Project)
-[![](https://img.shields.io/badge/-💬%20SecureChat-000)](https://github.com/kushpatelj86/CPSC-455-Project)
-[![](https://img.shields.io/badge/-📊%20ATIRS-000)](https://github.com/Noah4u76/Adaptive-Threat-Intelligence-Response-System)
+[![](https://img.shields.io/badge/-🍯%20HoneyPotChat-000)](https://github.com/Noah4u76/honeypot-chat)
