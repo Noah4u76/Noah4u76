@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-### Full Stack Projects
+### Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/Noah4u76/Portfolio-Website)
 [![](https://img.shields.io/badge/-🧠%20Discrete%20StudyGuide-000)](https://github.com/Noah4u76/study-guide)
